@@ -9,6 +9,5 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-        
       - name: Run a script
-        run: echo "Hello from GitHub self-hosted runner!"
+        run: echo "Hello from GitHub self-hosted runner all good!"
